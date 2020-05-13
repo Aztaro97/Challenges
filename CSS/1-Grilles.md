@@ -24,6 +24,8 @@ Vous pouvez éditer ce fichier directement sur github en mettant votre pseudo su
 - Bowser65 - https://codesandbox.io/s/grafikart-challenge-1-whp3t
 - Bokad - https://jsfiddle.net/veq0Lf6y/
 - BaptouFou - https://repl.it/repls/WorthwhileSeashellIrc
+- Taro - https://codesandbox.io/s/heuristic-newton-pb5oy?file=/style.css
+
 
 ### Flex
 
